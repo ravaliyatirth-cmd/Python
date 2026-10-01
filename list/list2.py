@@ -1,0 +1,14 @@
+data=["ram","shyam","amit","kunal","ajay"]
+print(data)
+
+data[1]="Tirth"
+print(data)
+
+
+lst1 = ["kamlesh","Suresh","Mahesh"]
+data.extend(lst1)
+
+print(data)
+
+data.extend(["Rudra","Om","Snehil"])
+print(data)
